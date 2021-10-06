@@ -12,6 +12,6 @@
 
 ### Screenshot
 
-![desktop](./desktop.png)
-![mobile](./tablet.png)
 ![mobile](./mobile.png)
+![mobile](./tablet.png)
+
