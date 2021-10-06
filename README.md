@@ -8,7 +8,7 @@
 ## Author
 
 - Frontend Mentor - [link](https://www.frontendmentor.io/profile/sergii-moroz)
-- [YouTube]()
+- [YouTube](https://youtu.be/3fqqOzRn12A)
 
 ### Screenshot
 
